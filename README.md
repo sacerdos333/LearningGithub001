@@ -1,4 +1,4 @@
 # LearningGithub001
 
-This is the description for the Readme file
-Adding another description
+This is a description for the REadme file
+Another Desciption for the read me
